@@ -1,4 +1,4 @@
-# Muz's Family Mysterious Recipes
+# Muz's Clan Mysterious Recipes
 hellooooooo!
 Set of recipes as given by my grandma.
 
